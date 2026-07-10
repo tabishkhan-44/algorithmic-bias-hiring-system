@@ -1,0 +1,16 @@
+intersection,n,selection_rate
+Black + Female,1655,0.0012
+Hispanic + Female,1661,0.0066
+Hispanic + Non-Binary,124,0.0161
+Black + Male,1767,0.017
+Black + Non-Binary,155,0.0194
+Other + Female,551,0.0236
+Other + Non-Binary,43,0.0465
+Hispanic + Male,1669,0.0575
+Asian + Female,1341,0.0634
+Asian + Non-Binary,125,0.096
+Other + Male,602,0.1047
+White + Female,6574,0.1246
+Asian + Male,1479,0.1799
+White + Non-Binary,577,0.1802
+White + Male,6677,0.3183

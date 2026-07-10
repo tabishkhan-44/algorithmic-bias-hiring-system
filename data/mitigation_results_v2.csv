@@ -1,0 +1,5 @@
+attribute,baseline_dp_diff,reweighted_dp_diff,threshold_adjusted_dp_diff
+Gender,0.1194,0.0989,0.0017
+Race_Ethnicity,0.2059,0.1648,0.0025
+Religion,0.1687,0.1367,0.002
+Continent,0.2016,0.1638,0.0007

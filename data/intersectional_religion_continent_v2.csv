@@ -1,0 +1,37 @@
+intersection,n,selection_rate
+Muslim + Africa,435,0.0023
+Muslim + Asia,1382,0.0029
+Muslim + South America,303,0.0132
+Hindu + Africa,286,0.014
+Jewish + Africa,136,0.0147
+Muslim + Oceania,162,0.0247
+Buddhist + Africa,154,0.0325
+Muslim + North America,921,0.0358
+Buddhist + Asia,552,0.0399
+Unaffiliated + Africa,401,0.0449
+Hindu + Asia,1034,0.0493
+Muslim + Europe,790,0.0519
+Christian + Africa,1165,0.0524
+Jewish + Asia,438,0.0594
+Unaffiliated + Asia,1352,0.0769
+Hindu + South America,266,0.0789
+Unaffiliated + South America,286,0.0909
+Jewish + South America,94,0.0957
+Christian + Asia,3835,0.097
+Buddhist + South America,132,0.1061
+Christian + South America,890,0.1303
+Buddhist + Oceania,59,0.1525
+Hindu + North America,727,0.1761
+Hindu + Oceania,105,0.181
+Buddhist + Europe,280,0.1964
+Hindu + Europe,598,0.2023
+Buddhist + North America,349,0.212
+Jewish + North America,316,0.2215
+Jewish + Europe,272,0.2279
+Unaffiliated + Oceania,132,0.2424
+Unaffiliated + Europe,847,0.2597
+Unaffiliated + North America,965,0.2622
+Christian + Oceania,459,0.2963
+Christian + North America,2647,0.3068
+Jewish + Oceania,48,0.3125
+Christian + Europe,2182,0.3158
