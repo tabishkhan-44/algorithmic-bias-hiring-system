@@ -33,7 +33,7 @@ case study. It progresses in two phases:
   Gender, Race/Ethnicity, Religion, Continent
 - Six algorithms compared: Decision Tree, Random Forest, XGBoost,
   K-Nearest Neighbours, Logistic Regression, Support Vector Machine
-- **FACC (Fairness-Aware Custom Classifier)** — a feature-wise
+- **(Attention model .py )** — a feature-wise
   classifier built from scratch in NumPy, using a scaled dot-product
   weighting mechanism (in the spirit of Transformer self-attention,
   Vaswani et al. 2017) to produce interpretable per-feature relevance
