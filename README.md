@@ -16,8 +16,8 @@ case study. It progresses in two phases:
   comparing three classifiers.
 - **v2** — an expanded, multi-attribute study on 25,000 rows, adding
   Race/Ethnicity, Religion, and Continent as protected attributes,
-  intersectional fairness analysis, a from-scratch custom classifier
-  (FACC), and two bias-mitigation strategies.
+  intersectional fairness analysis,nympy attention based model. 
+  ( and two bias-mitigation strategies.
 
 ---
 
